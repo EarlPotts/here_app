@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "824895220624",
+    "project_id": "here-app-cee3c",
+    "storage_bucket": "here-app-cee3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824895220624:android:b58bff2b7413ee3d24e115",
+        "android_client_info": {
+          "package_name": "com.earlpotts.here_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824895220624-k8jujeg2t1r52bfvbj6i2iadr72r5qcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWS_kaIylLAMDlk79WeHi_ExrjUH_vIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824895220624-k8jujeg2t1r52bfvbj6i2iadr72r5qcv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824895220624-tem49tqgksv2rsdj577jho3c0m0v2gab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.earlpotts.hereApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

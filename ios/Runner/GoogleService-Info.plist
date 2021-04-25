@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>824895220624-tem49tqgksv2rsdj577jho3c0m0v2gab.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.824895220624-tem49tqgksv2rsdj577jho3c0m0v2gab</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBDD43Pvw7kL41J6IXBCH-6nNyJsbcLetA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>824895220624</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.earlpotts.hereApp</string>
+	<key>PROJECT_ID</key>
+	<string>here-app-cee3c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>here-app-cee3c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:824895220624:ios:8e432ea00ba4082524e115</string>
+</dict>
+</plist>
